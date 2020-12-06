@@ -1,2 +1,2 @@
 # ShoppingCart
-Group Assignment for SA51 - ASP.NET Core
+Group Assignment for sa51-asp.net-shoppingCart
